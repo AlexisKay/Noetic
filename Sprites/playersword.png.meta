@@ -1,0 +1,2364 @@
+fileFormatVersion: 2
+guid: ee8b1d52013a3b84dba1d84f7c3c271a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7113549497127142848
+    second: playersword_0
+  - first:
+      213: -2246821877838089123
+    second: playersword_1
+  - first:
+      213: 1260302724017676575
+    second: playersword_2
+  - first:
+      213: 45304263695807850
+    second: playersword_3
+  - first:
+      213: -2399766303616232151
+    second: playersword_4
+  - first:
+      213: 4029880911996735409
+    second: playersword_5
+  - first:
+      213: 5854863153003951734
+    second: playersword_6
+  - first:
+      213: -3103044999311637026
+    second: playersword_7
+  - first:
+      213: -4180545083875046699
+    second: playersword_8
+  - first:
+      213: -1641895013821882122
+    second: playersword_9
+  - first:
+      213: -4597651117148505357
+    second: playersword_10
+  - first:
+      213: 8941510373987109727
+    second: playersword_11
+  - first:
+      213: 3483225215036864140
+    second: playersword_12
+  - first:
+      213: -6844970071143072416
+    second: playersword_13
+  - first:
+      213: 7947587331789151085
+    second: playersword_14
+  - first:
+      213: 5748949241466054168
+    second: playersword_15
+  - first:
+      213: -5928042916081645711
+    second: playersword_16
+  - first:
+      213: -6733077031248566658
+    second: playersword_17
+  - first:
+      213: -3923228320642883657
+    second: playersword_18
+  - first:
+      213: -1392614860265614786
+    second: playersword_19
+  - first:
+      213: -3754530950743975566
+    second: playersword_20
+  - first:
+      213: -7413276015564935214
+    second: playersword_21
+  - first:
+      213: 5425780717173601597
+    second: playersword_22
+  - first:
+      213: -3487782886574179887
+    second: playersword_23
+  - first:
+      213: -2864395546801111432
+    second: playersword_24
+  - first:
+      213: -4995492550397473466
+    second: playersword_25
+  - first:
+      213: 764887313991350527
+    second: playersword_26
+  - first:
+      213: 7695782308293198498
+    second: playersword_27
+  - first:
+      213: 6200601955374458468
+    second: playersword_28
+  - first:
+      213: -2294578708740084706
+    second: playersword_29
+  - first:
+      213: 5597010614492603637
+    second: playersword_30
+  - first:
+      213: -3981937783942224143
+    second: playersword_31
+  - first:
+      213: 5306476684868941192
+    second: playersword_32
+  - first:
+      213: -955024006130063179
+    second: playersword_33
+  - first:
+      213: 833679174423710731
+    second: playersword_34
+  - first:
+      213: 5080348206132742096
+    second: playersword_35
+  - first:
+      213: -4513121618836354265
+    second: playersword_36
+  - first:
+      213: 2337949582855520032
+    second: playersword_37
+  - first:
+      213: -8339872068953669394
+    second: playersword_38
+  - first:
+      213: -189626270447052228
+    second: playersword_39
+  - first:
+      213: -8551715671555278299
+    second: playersword_40
+  - first:
+      213: 762123953552712422
+    second: playersword_41
+  - first:
+      213: 8534643737019389186
+    second: playersword_42
+  - first:
+      213: -9153624943702520588
+    second: playersword_43
+  - first:
+      213: 6826120483307568491
+    second: playersword_44
+  - first:
+      213: -7828966018198895320
+    second: playersword_45
+  - first:
+      213: 4233906983194194396
+    second: playersword_46
+  - first:
+      213: 6763990867266948960
+    second: playersword_47
+  - first:
+      213: 4792950265460631357
+    second: playersword_48
+  - first:
+      213: 4231948142295704903
+    second: playersword_49
+  - first:
+      213: -3275757700704791118
+    second: playersword_50
+  - first:
+      213: -8219377582514120010
+    second: playersword_51
+  - first:
+      213: 814920487670302332
+    second: playersword_52
+  - first:
+      213: -1536452728400962187
+    second: playersword_53
+  - first:
+      213: -5588036486252500979
+    second: playersword_54
+  - first:
+      213: -7174757009092188614
+    second: playersword_55
+  - first:
+      213: -4615562495528045667
+    second: playersword_56
+  - first:
+      213: 2398609495054831830
+    second: playersword_57
+  - first:
+      213: -8472995754475942647
+    second: playersword_58
+  - first:
+      213: 4843275186978943282
+    second: playersword_59
+  - first:
+      213: -7272580121676333597
+    second: playersword_60
+  - first:
+      213: 4338556702362646649
+    second: playersword_61
+  - first:
+      213: -5731374941138341592
+    second: playersword_62
+  - first:
+      213: -8667277075144583962
+    second: playersword_63
+  - first:
+      213: 1755710086604331817
+    second: playersword_64
+  - first:
+      213: 6633739929590687579
+    second: playersword_65
+  - first:
+      213: 8005795907134685942
+    second: playersword_66
+  - first:
+      213: -6101347357446123306
+    second: playersword_67
+  - first:
+      213: -4686340614083488758
+    second: playersword_68
+  - first:
+      213: -3464715894449555536
+    second: playersword_69
+  - first:
+      213: 4774507522533227816
+    second: playersword_70
+  - first:
+      213: 640293825561598725
+    second: playersword_71
+  - first:
+      213: 5683600835613595856
+    second: playersword_72
+  - first:
+      213: 7159784220883557830
+    second: playersword_73
+  - first:
+      213: -4648681144343450694
+    second: playersword_74
+  - first:
+      213: -4300489910762333907
+    second: playersword_75
+  - first:
+      213: -894835237576417816
+    second: playersword_76
+  - first:
+      213: -6212566000706655139
+    second: playersword_77
+  - first:
+      213: 6053832496825997169
+    second: playersword_78
+  - first:
+      213: 5830541136141094313
+    second: playersword_79
+  - first:
+      213: 5053287591142980825
+    second: playersword_80
+  - first:
+      213: 2437373770531698109
+    second: playersword_81
+  - first:
+      213: -1644266115571045065
+    second: playersword_82
+  - first:
+      213: -915864271919073335
+    second: playersword_83
+  - first:
+      213: 529481089841018886
+    second: playersword_84
+  - first:
+      213: -2081856984537891223
+    second: playersword_85
+  - first:
+      213: 2524170146041275189
+    second: playersword_86
+  - first:
+      213: -1293422262173933454
+    second: playersword_87
+  - first:
+      213: 4801132846070738274
+    second: playersword_88
+  - first:
+      213: -346371291824679060
+    second: playersword_89
+  - first:
+      213: -8825796213807768385
+    second: playersword_90
+  - first:
+      213: -723333385831158864
+    second: playersword_91
+  - first:
+      213: -6278386470946634422
+    second: playersword_92
+  - first:
+      213: -3314342920682436499
+    second: playersword_93
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: playersword_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1512
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c50c64149768b260800000000000000
+      internalID: 7113549497127142848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1428
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5472e1086fa1d0e0800000000000000
+      internalID: -2246821877838089123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1428
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11e78e66ae7d7110800000000000000
+      internalID: 1260302724017676575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_3
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1428
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a653660ecf3f0a000800000000000000
+      internalID: 45304263695807850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_4
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1428
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9259009e24152bed0800000000000000
+      internalID: -2399766303616232151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_5
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1428
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf41b696530de730800000000000000
+      internalID: 4029880911996735409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_6
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1428
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676f25b6407a04150800000000000000
+      internalID: 5854863153003951734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_7
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1428
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed54af58305cfe4d0800000000000000
+      internalID: -3103044999311637026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1344
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da4f1c4568bbf5c0800000000000000
+      internalID: -4180545083875046699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_9
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1342
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f069ae1f21d639e0800000000000000
+      internalID: -1641895013821882122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_10
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1344
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa7f291bacd130c0800000000000000
+      internalID: -4597651117148505357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_11
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1260
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5bc8fc9f40a61c70800000000000000
+      internalID: 8941510373987109727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_12
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1260
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86b4fec0e6e65030800000000000000
+      internalID: 3483225215036864140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_13
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1260
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d365b8cf7c101a0800000000000000
+      internalID: -6844970071143072416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_14
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1264
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6bdfa4f1908b4e60800000000000000
+      internalID: 7947587331789151085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_15
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1260
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816e55930ee58cf40800000000000000
+      internalID: 5748949241466054168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_16
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1260
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177cead306c5bbda0800000000000000
+      internalID: -5928042916081645711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_17
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1260
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76661b0d1e4f82a0800000000000000
+      internalID: -6733077031248566658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_18
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1264
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf1457e0a4ed89c0800000000000000
+      internalID: -3923228320642883657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_19
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1177
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3210f8b9207cace0800000000000000
+      internalID: -1392614860265614786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_20
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1100
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27912be1ef935ebc0800000000000000
+      internalID: -3754530950743975566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_21
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1009
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df2456bdb0ce1990800000000000000
+      internalID: -7413276015564935214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_22
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 924
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35fb44b0de3c4b40800000000000000
+      internalID: 5425780717173601597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_23
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 924
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d93f0891f7e89fc0800000000000000
+      internalID: -3487782886574179887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_24
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 840
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e75b82d6f9f38d0800000000000000
+      internalID: -2864395546801111432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_25
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 840
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64dc27f1ef17caab0800000000000000
+      internalID: -4995492550397473466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_26
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 840
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff838a3a5fc6d9a00800000000000000
+      internalID: 764887313991350527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_27
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 840
+        width: 15
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a24d824c39ecca60800000000000000
+      internalID: 7695782308293198498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_28
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 845
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466efaf40a6fc0650800000000000000
+      internalID: 6200601955374458468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_29
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 855
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c6f5452d40820e0800000000000000
+      internalID: -2294578708740084706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_30
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 862
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f42ce8ef739cad40800000000000000
+      internalID: 5597010614492603637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_31
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 860
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6ea66cea05db8c0800000000000000
+      internalID: -3981937783942224143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_32
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 857
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88571821e6464a940800000000000000
+      internalID: 5306476684868941192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_33
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 859
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8a5a2f9b21fb2f0800000000000000
+      internalID: -955024006130063179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_34
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 860
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c8a28cac2d19b00800000000000000
+      internalID: 833679174423710731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_35
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 856
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7c5d1d6c5018640800000000000000
+      internalID: 5080348206132742096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_36
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 851
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b8f199ccb2e51c0800000000000000
+      internalID: -4513121618836354265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_37
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 844
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f30e432c0127020800000000000000
+      internalID: 2337949582855520032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_38
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 756
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee080d13a82d24c80800000000000000
+      internalID: -8339872068953669394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_39
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 756
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3adbe569ef4e5df0800000000000000
+      internalID: -189626270447052228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_40
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 756
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a7ec8d7e3325980800000000000000
+      internalID: -8551715671555278299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_41
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 756
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e26356a2bb939a00800000000000000
+      internalID: 762123953552712422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_42
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 756
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2059d85a245217670800000000000000
+      internalID: 8534643737019389186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_43
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 756
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fcc4779c9ac7f080800000000000000
+      internalID: -9153624943702520588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_44
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 672
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6db099c9604bbe50800000000000000
+      internalID: 6826120483307568491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_45
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 672
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82586a6d2ece95390800000000000000
+      internalID: -7828966018198895320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_46
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 672
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1f55118fbd1ca30800000000000000
+      internalID: 4233906983194194396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_47
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 672
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fce6b4bd58edd50800000000000000
+      internalID: 6763990867266948960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_48
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 672
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3725ee4fdaf38240800000000000000
+      internalID: 4792950265460631357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_49
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 672
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745e861e966eaba30800000000000000
+      internalID: 4231948142295704903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_50
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 672
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b59d371abb2a82d0800000000000000
+      internalID: -3275757700704791118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_51
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 672
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6badf6703a7eeed80800000000000000
+      internalID: -8219377582514120010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_52
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 590
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76c6cbaddd2f4b00800000000000000
+      internalID: 814920487670302332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_53
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 588
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d1b7d426c6daae0800000000000000
+      internalID: -1536452728400962187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_54
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 588
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d086ff42c6e4372b0800000000000000
+      internalID: -5588036486252500979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_55
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 588
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36e05383842e6c90800000000000000
+      internalID: -7174757009092188614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_56
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 588
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d937f675d5a32ffb0800000000000000
+      internalID: -4615562495528045667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_57
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 588
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d05f9b90a2994120800000000000000
+      internalID: 2398609495054831830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_58
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 588
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d811fc04fd96a80800000000000000
+      internalID: -8472995754475942647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_59
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 588
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231f75d2f15c63340800000000000000
+      internalID: 4843275186978943282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_60
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 588
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed3aee39ea921b90800000000000000
+      internalID: -7272580121676333597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_61
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 588
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978373a8556a53c30800000000000000
+      internalID: 4338556702362646649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_62
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 505
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821bfde6bd01670b0800000000000000
+      internalID: -5731374941138341592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_63
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 505
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4de1edb65a7b780800000000000000
+      internalID: -8667277075144583962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_64
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 505
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b1f9885098d5810800000000000000
+      internalID: 1755710086604331817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_65
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 505
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57e393a157cf0c50800000000000000
+      internalID: 6633739929590687579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_66
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 420
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f20a0506fc4a1f60800000000000000
+      internalID: 8005795907134685942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_67
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 420
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0d72c97e8a35ba0800000000000000
+      internalID: -6101347357446123306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_68
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 420
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0451117a06c6feb0800000000000000
+      internalID: -4686340614083488758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_69
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 420
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b73fa7304bdaefc0800000000000000
+      internalID: -3464715894449555536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_70
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 337
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82df50a9b45724240800000000000000
+      internalID: 4774507522533227816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_71
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 253
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b997887d7c2e800800000000000000
+      internalID: 640293825561598725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_72
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 258
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d89cd3d8d430ee40800000000000000
+      internalID: 5683600835613595856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_73
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 280
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd163290d9ac5360800000000000000
+      internalID: 7159784220883557830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_74
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 288
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb2a5501219c7fb0800000000000000
+      internalID: -4648681144343450694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_75
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 290
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d291cdc06379154c0800000000000000
+      internalID: -4300489910762333907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_76
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 292
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed51cba718e493f0800000000000000
+      internalID: -894835237576417816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_77
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 292
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ce530532888c9a0800000000000000
+      internalID: -6212566000706655139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_78
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 292
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177970fc498830450800000000000000
+      internalID: 6053832496825997169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_79
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 170
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad0ef3954e3ae050800000000000000
+      internalID: 5830541136141094313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_80
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 170
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc77f96a42e02640800000000000000
+      internalID: 5053287591142980825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_81
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 170
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db57561d78a43d120800000000000000
+      internalID: 2437373770531698109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_82
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 170
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d2d29fda46e29e0800000000000000
+      internalID: -1644266115571045065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_83
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 170
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7bac11c423a43f0800000000000000
+      internalID: -915864271919073335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_84
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 170
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608b243fe38195700800000000000000
+      internalID: 529481089841018886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_85
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 84
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ef37b4a12cb13e0800000000000000
+      internalID: -2081856984537891223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_86
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 86
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533af6bcf57a70320800000000000000
+      internalID: 2524170146041275189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_87
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 96
+        width: 40
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2706a8e2e47dc0ee0800000000000000
+      internalID: -1293422262173933454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_88
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 88
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26da181d2ec01a240800000000000000
+      internalID: 4801132846070738274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_89
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 84
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67956e2521713bf0800000000000000
+      internalID: -346371291824679060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_90
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 84
+        width: 43
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc1008ca19748580800000000000000
+      internalID: -8825796213807768385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_91
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb6a533e1436f5f0800000000000000
+      internalID: -723333385831158864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_92
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a458b9cd4c0bed8a0800000000000000
+      internalID: -6278386470946634422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playersword_93
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 0
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6884ec7ca61102d0800000000000000
+      internalID: -3314342920682436499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
